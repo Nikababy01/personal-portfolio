@@ -27,9 +27,9 @@ body {
  }
  .fullPagebio {
    position: relative;
-   max-width: 1300px;
+   max-width: 1200px;
    max-height: fit-content;
-   padding: 80px;
+   padding: 105px;
    //background: rgba(255,255,255,.2);
    //box-shadow: 0 5px 15px rgba(0,0,0,.25);
  }
@@ -42,7 +42,7 @@ body {
  
  .fullPagebio p {
   font-style: italic;
-  font-size: 18px;
+  font-size: 24px;
   font-weight: bolder;
   text-transform: uppercase;
   color: white;
@@ -52,7 +52,7 @@ body {
   
 .fullPagetech{
   padding-top: 100px;
-  padding-bottom: 200px;
+  padding-bottom: 500px;
   text-transform: uppercase; 
   background: url(https://www.asmpacific.com/images/banner-home.png);
   color: white;
