@@ -1,0 +1,39 @@
+{
+	"project1": {
+		"title": "Sorting Houses",
+		"screenshot": "https://raw.githubusercontent.com/Nikababy01/sortinghats/master/screenshots/sortinghats.PNG",
+		"description": "This project we created using Bootstrap.We also learned forEach loops",
+		"technologiesUsed": "HTML, CSS, Vanilla JavaScript, and BootStrap",
+		"available": "true",
+		"url": "https://github.com/nss-evening-cohort-11/js-part-deux",
+		"githubUrl": "https://github.com/Nikababy01/sortinghats"
+	},
+	"project2": {
+		"title": "Chatty Cobralily",
+		"screenshot": "https://raw.githubusercontent.com/Nikababy01/chatty-cobralily/master/screenshots/dark-mode.png",
+		"description": "This project we created a chat message app for users to chat with each other.",
+		"technologiesUsed": "HTML, CSS, BootStrap, and JQuery",
+		"available": "true",
+		"url": "https://chatty-39152.firebaseapp.com/",
+		"githubUrl": "https://github.com/Nikababy01/chatty-cobralily"
+
+	},"project3": {
+		"title": "Star Destroyer",
+		"screenshot": "https://raw.githubusercontent.com/nss-evening-cohort-11/nutshell-ewoks-droids/master/screenshots/Weapons.PNG",
+		"description": "This was a fun project for Star Wars Lovers.",
+		"technologiesUsed": "HTML, CSS, Firebase, Webpack, JQuery, and JavaScript",
+		"available": "true",
+		"url": "https://star-destroyer-bef28.firebaseapp.com",
+		"githubUrl": "https://github.com/nss-evening-cohort-11/nutshell-ewoks-droids"
+
+	},"project4": {
+		"title": "Chatty Cobralily",
+		"screenshot": "https://raw.githubusercontent.com/Nikababy01/chatty-cobralily/master/screenshots/dark-mode.png",
+		"description": "This project we created a chat message that allow users to chat with each other.",
+		"technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+		"available": "true",
+		"url": "",
+		"githubUrl": ""
+
+	}
+}
