@@ -41,6 +41,7 @@ body {
  }
  
  .fullPagebio p {
+  margin: 0, 15px;
   font-style: italic;
   font-size: 24px;
   font-weight: bolder;
@@ -48,6 +49,7 @@ body {
   color: white;
   z-index: 5;
   text-align: left;
+  //position: absolute;
 }
   
 .fullPagetech{
@@ -85,7 +87,7 @@ body {
    color: white; 
    padding-top: 100px;
    text-align: center;
-   font-size: 200px;
+   font-size: 100px;
    font-family: "Montserrat";
    text-transform: uppercase;
    font-weight:900;
@@ -117,16 +119,16 @@ body {
 
 // technologies heading
  .tech-heading{
+   margin: auto;
    justify-content: center;
    text-align: center;
-   font-size: 175px;
+   font-size: 125px;
    font-family: "Montserrat";
    text-transform: uppercase;
    font-weight:900;
    letter-spacing:20px;
   }
  
-
  .project-image{
    height: 400px;
    width: 100%;
