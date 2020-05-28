@@ -1,12 +1,12 @@
 {
 	"project1": {
-		"title": "Sorting Houses",
-		"screenshot": "https://raw.githubusercontent.com/Nikababy01/sortinghats/master/screenshots/sortinghats.PNG",
-		"description": "This project we created using Bootstrap.We also learned forEach loops",
+		"title": "Pinterest",
+		"screenshot": "https://raw.githubusercontent.com/Nikababy01/pinterest1/master/screenshots/Boards.PNG",
+		"description": "This project we Pinterest Boards using JS forEach loops and Bootstrap",
 		"technologiesUsed": "HTML, CSS, Vanilla JavaScript, and BootStrap",
 		"available": "true",
-		"url": "https://github.com/nss-evening-cohort-11/js-part-deux",
-		"githubUrl": "https://github.com/Nikababy01/sortinghats"
+		"url": "https://pinterest1-b8eca.firebaseapp.com",
+		"githubUrl": "https://github.com/Nikababy01/pinterest1"
 	},
 	"project2": {
 		"title": "Chatty Cobralily",
@@ -27,13 +27,13 @@
 		"githubUrl": "https://github.com/nss-evening-cohort-11/nutshell-ewoks-droids"
 
 	},"project4": {
-		"title": "Chatty Cobralily",
-		"screenshot": "https://raw.githubusercontent.com/Nikababy01/chatty-cobralily/master/screenshots/dark-mode.png",
-		"description": "This project we created a chat message that allow users to chat with each other.",
-		"technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+		"title": "Mushroom-Picker",
+		"screenshot": "https://raw.githubusercontent.com/Nikababy01/mushroom-picker/master/screenshots/mushroom.PNG",
+		"description": "This project we used React and created a garden of mushrooms and a basket to store them.",
+		"technologiesUsed": "React, JX, BootStrap, SASS",
 		"available": "true",
-		"url": "",
-		"githubUrl": ""
+		"url": "https://mushroom-picker-4c35a.firebaseapp.com/",
+		"githubUrl": "https://github.com/Nikababy01/mushroom-picker"
 
 	}
 }
