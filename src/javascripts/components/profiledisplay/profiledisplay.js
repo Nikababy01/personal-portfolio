@@ -15,7 +15,7 @@ const createProject = () => {
         domString += `<p class="card-text">${projects.description}</p>`;
         domString += `<p class="card-text">Technologies Used:${projects.technologiesUsed}</p>`;
         domString += `<p class="card-text">${projects.url}</p>`;
-        domString += `<p class="card-text"><a class="" href="${projects.url}"><h3>${projects.title} Deployed Site View</h3></a>`;
+        domString += `<p class="card-text"><a class="" href="${projects.url}"><h3>${projects.title} Deployed Site View Link</h3></a>`;
         domString += `<p class="card-text"><a class="" href="${projects.githubUrl}">Monique Bass github link</h3></a>`;
         domString += '</div>';
         domString += '</div>';

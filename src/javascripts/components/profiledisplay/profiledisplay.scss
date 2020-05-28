@@ -20,7 +20,7 @@ body {
  
  section{
    background: url(https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/06/19/104537965-Nashville_skyline.1910x1000.jpg);
-   height: 90vh;
+   height: 100vh;
    width: 100%;
    display: flex;
    z-index: -1;
@@ -35,6 +35,7 @@ body {
    //box-shadow: 0 5px 15px rgba(0,0,0,.25);
  }
  .fullPagebio h2 {
+   padding-top: 5px;
    font-style: italic;
    font-size: 36px;
    text-transform: uppercase;
@@ -42,23 +43,26 @@ body {
  }
  
  .fullPagebio p {
-  margin: 0, 15px;
+  //margin-top: 1px;
+  margin-left: 40%;
   font-style: italic;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: bolder;
   text-transform: uppercase;
   color: white;
-  z-index: 100px;
+  //z-index: 3;
+  float: right;
   text-align: left;
   //position: absolute;
 }
   
 .fullPagetech{
   padding-top: 100px;
-  padding-bottom: 500px;
+  padding-bottom: 400px;
   text-transform: uppercase; 
   background: url(https://www.asmpacific.com/images/banner-home.png);
   color: white;
+  background-size: cover;
  }
 
 .tools{
@@ -74,7 +78,7 @@ body {
  }
  // projects css
  .container{
-   max-width: 1600px;
+   max-width: 1300px;
  }
  .fullPageProject{
   margin-top: auto;
@@ -110,6 +114,7 @@ body {
  .card-text{
    color: black;
    padding-left: 15px;
+   font-style: italic;
  }
  .card-title{
   color: black;
