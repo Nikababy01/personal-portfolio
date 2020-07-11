@@ -37,7 +37,7 @@
 
 	},
 		"project5": {
-		"title": "POBO-Front-End Capstone",
+		"title": "POBO-Front-End",
 		"screenshot": "https://raw.githubusercontent.com/Nikababy01/POBO-FrontEnd-Capstone/master/screenshots/POBO1.PNG",
 		"description": "This project I was inspired from being a stay-at-home parent. This app gives parents cool ideas for low budget family outings.",
 		"technologiesUsed": "React, JX, BootStrap, SASS",
